@@ -26,7 +26,7 @@ Category : Textile Arts
 Run Locally :
 Install dependencies: `npm install` 
  Set up environment variables for Firebase configuration.
-Start the development server: `npm start`
+Start the development server: `npm run dev`
 
 ## Technologies Used
 
