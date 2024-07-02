@@ -22,8 +22,11 @@ Category : Textile Arts
 - **Personalized View Details Page**: Dive deeper into the details of each art & craft item through a private/protected route, where comprehensive information stored in the database is presented to the user in an organized and visually appealing manner.
 
 - **Customizable My Art & Craft List**: Enjoy a personalized view of your contributed art & craft items through a private/protected route. Each item is presented with essential details and options to update or delete, ensuring complete control and customization for the user.
-
-
+- 
+Run Locally :
+Install dependencies: `npm install` 
+ Set up environment variables for Firebase configuration.
+Start the development server: `npm start`
 
 ## Technologies Used
 
