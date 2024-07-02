@@ -24,9 +24,9 @@ Category : Textile Arts
 - **Customizable My Art & Craft List**: Enjoy a personalized view of your contributed art & craft items through a private/protected route. Each item is presented with essential details and options to update or delete, ensuring complete control and customization for the user.
 - 
 Run Locally :
-Install dependencies: `npm install` 
- Set up environment variables for Firebase configuration.
-Start the development server: `npm run dev`
+- Install dependencies: `npm install` 
+-  Set up environment variables for Firebase configuration.
+- Start the development server: `npm run dev`
 
 ## Technologies Used
 
