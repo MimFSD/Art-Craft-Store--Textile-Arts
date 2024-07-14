@@ -2,7 +2,7 @@
   Artistic Alchemy
 
  
-Live link : [v](https://artistic-alchemy.web.app/)
+Live link : [Art & Craft Store](https://artistic-alchemy.web.app/)
 
 Category : Textile Arts 
 
