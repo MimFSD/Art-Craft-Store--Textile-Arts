@@ -7,8 +7,8 @@
 Category : Textile Arts -->
 Category : Art & Craft Store 
 
-## B9 A10 Type-02 Requirements
-This project fulfills the requirements of the "B9 A10 Type-02" category.
+<!-- ## B9 A10 Type-02 Requirements
+This project fulfills the requirements of the "B9 A10 Type-02" category. -->
 
 ## Features
 
