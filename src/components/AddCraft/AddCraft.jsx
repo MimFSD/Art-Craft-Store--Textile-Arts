@@ -4,6 +4,7 @@ import { useContext } from 'react';
 import { AuthContext } from '../../Firebase/AuthProvider';
 import { useTypewriter } from 'react-simple-typewriter';
 
+
 function AddCraft() {
   const { user } = useContext(AuthContext);
   const handleAddNewCraft = e => {
@@ -33,6 +34,7 @@ function AddCraft() {
       processing_time,
       stock_status,
     };
+    
     console.log(newCraft);
     fetch('https://artistic-alchemy-server.vercel.app/addCraft', {
       method: 'POST',
