@@ -53,6 +53,7 @@ const router = createBrowserRouter([
           </PrivateRoute>
         ),
       },
+      
       {
         path: '/myArtCraft',
         element: (
