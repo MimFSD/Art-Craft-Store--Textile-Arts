@@ -3,9 +3,9 @@
 
  
 [Grand Craft Artistry Emporium](https://artistic-alchemy.web.app/)
-
-Category : Textile Arts
-Art & Craft Store 
+<!-- 
+Category : Textile Arts -->
+Category : Art & Craft Store 
 
 
 ## Features
