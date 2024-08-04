@@ -95,6 +95,8 @@ function AllArtCraft() {
                         color="blue-gray"
                         className="font-medium"
                       >
+
+                        
                         <Link to={`/details/${_id}`}>
                           <Button color="blue">View Details</Button>
                         </Link>
