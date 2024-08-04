@@ -53,7 +53,7 @@ const router = createBrowserRouter([
           </PrivateRoute>
         ),
       },
-      
+
       {
         path: '/myArtCraft',
         element: (
@@ -61,6 +61,7 @@ const router = createBrowserRouter([
             <MyArtCraft />
           </PrivateRoute>
         ),
+        
       },
       {
         path: '/update/:id',
@@ -75,5 +76,4 @@ const router = createBrowserRouter([
     ],
   },
 ]);
-
 export default router;
