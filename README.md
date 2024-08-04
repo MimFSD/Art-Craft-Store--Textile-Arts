@@ -2,7 +2,7 @@
   Artistic Alchemy
 
  
-Live link : [Grand Craft Artistry Emporium](https://artistic-alchemy.web.app/)
+[Grand Craft Artistry Emporium](https://artistic-alchemy.web.app/)
 
 Category : Textile Arts 
 
